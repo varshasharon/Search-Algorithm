@@ -110,11 +110,9 @@ else:
 
 ```
 ## Sample Input and Output
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/98278161/214895356-5ed6bc35-247f-47a9-aec2-18881221fb18.png)
+![image](https://user-images.githubusercontent.com/98278161/214895500-5b4e991c-b5ef-4f68-92aa-9198b5f33dcf.png)
+![image](https://user-images.githubusercontent.com/98278161/214895601-9b0c7aaa-c9d4-4a44-9e68-243d62b063b0.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
